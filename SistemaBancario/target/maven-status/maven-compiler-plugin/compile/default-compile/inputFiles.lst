@@ -1,0 +1,12 @@
+C:\Users\alunos\Documents\NetBeansProjects\SistemaBancario\src\main\java\com\mycompany\sistemabancario\model\domain\Clientes.java
+C:\Users\alunos\Documents\NetBeansProjects\SistemaBancario\src\main\java\com\mycompany\sistemabancario\view\TelaPrincipal.java
+C:\Users\alunos\Documents\NetBeansProjects\SistemaBancario\src\main\java\com\mycompany\sistemabancario\model\dao\AgenciasDao.java
+C:\Users\alunos\Documents\NetBeansProjects\SistemaBancario\src\main\java\com\mycompany\sistemabancario\model\domain\Agencias.java
+C:\Users\alunos\Documents\NetBeansProjects\SistemaBancario\src\main\java\com\mycompany\sistemabancario\conection\mysql.java
+C:\Users\alunos\Documents\NetBeansProjects\SistemaBancario\src\main\java\com\mycompany\sistemabancario\utils\GerarMensagens.java
+C:\Users\alunos\Documents\NetBeansProjects\SistemaBancario\src\main\java\com\mycompany\sistemabancario\view\TelaNovaAgencia.java
+C:\Users\alunos\Documents\NetBeansProjects\SistemaBancario\src\main\java\com\mycompany\sistemabancario\controller\ControllerAgencia.java
+C:\Users\alunos\Documents\NetBeansProjects\SistemaBancario\src\main\java\com\mycompany\sistemabancario\view\TelaCadastroAgencia.java
+C:\Users\alunos\Documents\NetBeansProjects\SistemaBancario\src\main\java\com\mycompany\sistemabancario\view\TelaCadastroCliente.java
+C:\Users\alunos\Documents\NetBeansProjects\SistemaBancario\src\main\java\com\mycompany\sistemabancario\model\dao\clienteDao.java
+C:\Users\alunos\Documents\NetBeansProjects\SistemaBancario\src\main\java\com\mycompany\sistemabancario\execptions\AgenciasException.java
